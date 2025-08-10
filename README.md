@@ -1,4 +1,5 @@
-# housing_data_linear_regression
+#
+linear_regression
 Housing Prices Prediction using Regression
  
 The model is trained on historical housing data, learns relationships between house features and prices, and then predicts the price for unseen houses.
